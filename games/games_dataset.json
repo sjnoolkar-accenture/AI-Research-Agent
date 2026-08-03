@@ -1,0 +1,569 @@
+[
+  {
+    "Name": "Gran Turismo",
+    "Platform": "PlayStation 1",
+    "Genre": "Racing",
+    "Publisher": "Sony Computer Entertainment",
+    "YearOfRelease": 1997,
+    "Rating": 87,
+    "Tags": [
+      "racing",
+      "simulation",
+      "cars",
+      "single-player"
+    ],
+    "Description": "A realistic racing simulator featuring a large roster of licensed cars, detailed physics, and a career mode that lets players earn licenses and upgrade vehicles.",
+    "Review": "Astonishingly realistic for its time, though the licensing tests can feel like a slog."
+  },
+  {
+    "Name": "Grand Theft Auto V",
+    "Platform": "PlayStation 3",
+    "Genre": "Action-Adventure",
+    "Publisher": "Rockstar Games",
+    "YearOfRelease": 2013,
+    "Rating": 96,
+    "Tags": [
+      "open-world",
+      "crime",
+      "multiplayer",
+      "satire"
+    ],
+    "Description": "An open-world crime saga set in Los Santos following three protagonists whose stories intertwine through heists, satire, and sprawling exploration.",
+    "Review": "A staggering open world packed with detail, even if the tone can feel mean-spirited at times."
+  },
+  {
+    "Name": "Super Mario World",
+    "Platform": "Super Nintendo Entertainment System",
+    "Genre": "Platformer",
+    "Publisher": "Nintendo",
+    "YearOfRelease": 1990,
+    "Rating": 92,
+    "Tags": [
+      "platformer",
+      "family-friendly",
+      "classic",
+      "single-player"
+    ],
+    "Description": "A side-scrolling platformer starring Mario and Yoshi as they traverse Dinosaur Land to rescue Princess Toadstool from Bowser.",
+    "Review": "Tight, joyful platforming that still holds up decades later."
+  },
+  {
+    "Name": "The Legend of Zelda: Ocarina of Time",
+    "Platform": "Nintendo 64",
+    "Genre": "Action-Adventure",
+    "Publisher": "Nintendo",
+    "YearOfRelease": 1998,
+    "Rating": 99,
+    "Tags": [
+      "adventure",
+      "puzzle",
+      "fantasy",
+      "single-player"
+    ],
+    "Description": "Link travels between childhood and adulthood in Hyrule, wielding the Ocarina of Time to solve puzzles and defeat Ganondorf across sprawling 3D dungeons.",
+    "Review": "A genre-defining adventure, though camera controls show their age."
+  },
+  {
+    "Name": "Halo: Combat Evolved",
+    "Platform": "Xbox",
+    "Genre": "First-Person Shooter",
+    "Publisher": "Microsoft Game Studios",
+    "YearOfRelease": 2001,
+    "Rating": 90,
+    "Tags": [
+      "shooter",
+      "sci-fi",
+      "co-op",
+      "multiplayer"
+    ],
+    "Description": "Master Chief battles the alien Covenant on a mysterious ringworld in a sci-fi shooter praised for its vehicle combat and cooperative play.",
+    "Review": "Revolutionized console shooters, with vehicle sections that still feel great."
+  },
+  {
+    "Name": "God of War",
+    "Platform": "PlayStation 4",
+    "Genre": "Action-Adventure",
+    "Publisher": "Sony Interactive Entertainment",
+    "YearOfRelease": 2018,
+    "Rating": 94,
+    "Tags": [
+      "mythology",
+      "single-player",
+      "story-rich",
+      "combat"
+    ],
+    "Description": "Kratos and his son Atreus journey through Norse realms in a reimagining of the series that blends brutal combat with an intimate father-son story.",
+    "Review": "A moving reinvention of the series with combat that feels weighty and precise."
+  },
+  {
+    "Name": "The Witcher 3: Wild Hunt",
+    "Platform": "PC",
+    "Genre": "Action RPG",
+    "Publisher": "CD Projekt",
+    "YearOfRelease": 2015,
+    "Rating": 93,
+    "Tags": [
+      "open-world",
+      "fantasy",
+      "story-rich",
+      "single-player"
+    ],
+    "Description": "Monster hunter Geralt of Rivia searches for his adopted daughter across a vast open world shaped by morally complex choices and rich side quests.",
+    "Review": "Side quests here are better than most games' main stories."
+  },
+  {
+    "Name": "Minecraft",
+    "Platform": "PC",
+    "Genre": "Sandbox",
+    "Publisher": "Mojang Studios",
+    "YearOfRelease": 2011,
+    "Rating": 93,
+    "Tags": [
+      "sandbox",
+      "survival",
+      "creative",
+      "multiplayer",
+      "family-friendly"
+    ],
+    "Description": "A block-based sandbox game where players mine resources, craft tools, and build anything from simple shelters to sprawling redstone machines.",
+    "Review": "Practically limitless creative freedom, though the early grind can be slow for newcomers."
+  },
+  {
+    "Name": "Animal Crossing: New Horizons",
+    "Platform": "Nintendo Switch",
+    "Genre": "Life Simulation",
+    "Publisher": "Nintendo",
+    "YearOfRelease": 2020,
+    "Rating": 90,
+    "Tags": [
+      "life-sim",
+      "relaxing",
+      "family-friendly",
+      "multiplayer"
+    ],
+    "Description": "Players cultivate a deserted island into a thriving community, decorating, fishing, and befriending anthropomorphic villagers at their own pace.",
+    "Review": "A cozy, low-pressure escape, arriving right when the world needed one."
+  },
+  {
+    "Name": "Elden Ring",
+    "Platform": "PlayStation 5",
+    "Genre": "Action RPG",
+    "Publisher": "Bandai Namco Entertainment",
+    "YearOfRelease": 2022,
+    "Rating": 96,
+    "Tags": [
+      "open-world",
+      "fantasy",
+      "difficult",
+      "single-player"
+    ],
+    "Description": "An open-world dark fantasy epic co-created with George R. R. Martin, challenging players with punishing combat and a mysterious, sprawling Lands Between.",
+    "Review": "Breathtaking scale and freedom, but brutally unforgiving for newcomers to the genre."
+  },
+  {
+    "Name": "Portal 2",
+    "Platform": "PC",
+    "Genre": "Puzzle",
+    "Publisher": "Valve Corporation",
+    "YearOfRelease": 2011,
+    "Rating": 95,
+    "Tags": [
+      "puzzle",
+      "co-op",
+      "sci-fi",
+      "single-player"
+    ],
+    "Review": "Whip-smart writing paired with genuinely clever puzzle design.",
+    "Description": "Chell escapes Aperture Science using a portal gun to solve physics-based puzzles, joined by the sardonic AI GLaDOS and co-op robots Atlas and P-Body."
+  },
+  {
+    "Name": "Final Fantasy VII",
+    "Platform": "PlayStation 1",
+    "Genre": "JRPG",
+    "Publisher": "Square",
+    "YearOfRelease": 1997,
+    "Rating": 92,
+    "Tags": [
+      "jrpg",
+      "story-rich",
+      "fantasy",
+      "single-player"
+    ],
+    "Description": "Cloud Strife and the eco-terrorist group AVALANCHE fight the Shinra corporation and the legendary soldier Sephiroth in a story spanning a planet-threatening crisis.",
+    "Review": "An emotional epic that redefined what console RPGs could be."
+  },
+  {
+    "Name": "Street Fighter II",
+    "Platform": "Arcade",
+    "Genre": "Fighting",
+    "Publisher": "Capcom",
+    "YearOfRelease": 1991,
+    "Rating": 89,
+    "Tags": [
+      "fighting",
+      "competitive",
+      "multiplayer",
+      "classic"
+    ],
+    "Description": "A landmark competitive fighting game featuring a roster of eight playable World Warriors, popularizing combo systems and special move inputs.",
+    "Review": "The template every fighting game since has borrowed from."
+  },
+  {
+    "Name": "Half-Life 2",
+    "Platform": "PC",
+    "Genre": "First-Person Shooter",
+    "Publisher": "Valve Corporation",
+    "YearOfRelease": 2004,
+    "Rating": 96,
+    "Tags": [
+      "shooter",
+      "sci-fi",
+      "story-rich",
+      "single-player"
+    ],
+    "Description": "Gordon Freeman fights the totalitarian Combine regime in City 17 using the gravity gun and physics-driven puzzles in this influential shooter.",
+    "Review": "The gravity gun alone reshaped how physics could be used in shooters."
+  },
+  {
+    "Name": "Red Dead Redemption 2",
+    "Platform": "Xbox One",
+    "Genre": "Action-Adventure",
+    "Publisher": "Rockstar Games",
+    "YearOfRelease": 2018,
+    "Rating": 97,
+    "Tags": [
+      "open-world",
+      "western",
+      "story-rich",
+      "single-player"
+    ],
+    "Description": "Outlaw Arthur Morgan navigates the decline of the Wild West as his gang faces internal betrayal and encroaching civilization in a richly detailed frontier.",
+    "Review": "Astonishingly detailed, though the deliberate pacing won't be for everyone."
+  },
+  {
+    "Name": "Chrono Trigger",
+    "Platform": "Super Nintendo Entertainment System",
+    "Genre": "JRPG",
+    "Publisher": "Square",
+    "YearOfRelease": 1995,
+    "Rating": 95,
+    "Tags": [
+      "jrpg",
+      "time-travel",
+      "classic",
+      "single-player"
+    ],
+    "Description": "A time-traveling adventure across eras from prehistory to a dystopian future, renowned for its multiple endings and collaborative development team.",
+    "Review": "Endlessly inventive, with a soundtrack that's aged beautifully."
+  },
+  {
+    "Name": "Overwatch",
+    "Platform": "PC",
+    "Genre": "First-Person Shooter",
+    "Publisher": "Blizzard Entertainment",
+    "YearOfRelease": 2016,
+    "Rating": 91,
+    "Tags": [
+      "shooter",
+      "team-based",
+      "multiplayer",
+      "competitive"
+    ],
+    "Description": "A team-based hero shooter where players choose from a diverse cast of characters with unique abilities across objective-based game modes.",
+    "Review": "Vibrant hero design and satisfying team play, though balance patches can be divisive."
+  },
+  {
+    "Name": "The Last of Us",
+    "Platform": "PlayStation 3",
+    "Genre": "Action-Adventure",
+    "Publisher": "Sony Computer Entertainment",
+    "YearOfRelease": 2013,
+    "Rating": 95,
+    "Tags": [
+      "story-rich",
+      "survival",
+      "single-player",
+      "post-apocalyptic"
+    ],
+    "Description": "Joel and Ellie navigate a fungal-infection apocalypse across the ruins of the United States, blending stealth combat with an emotionally driven narrative.",
+    "Review": "One of gaming's most affecting stories, carried by phenomenal performances."
+  },
+  {
+    "Name": "Mario Kart 8 Deluxe",
+    "Platform": "Nintendo Switch",
+    "Genre": "Racing",
+    "Publisher": "Nintendo",
+    "YearOfRelease": 2017,
+    "Rating": 92,
+    "Tags": [
+      "racing",
+      "multiplayer",
+      "family-friendly",
+      "party"
+    ],
+    "Description": "An enhanced kart racer with anti-gravity tracks, a large roster of Nintendo characters, and robust local and online multiplayer modes.",
+    "Review": "The best couch multiplayer racer around, chaotic in all the right ways."
+  },
+  {
+    "Name": "Doom (2016)",
+    "Platform": "PC",
+    "Genre": "First-Person Shooter",
+    "Publisher": "Bethesda Softworks",
+    "YearOfRelease": 2016,
+    "Rating": 88,
+    "Tags": [
+      "shooter",
+      "fast-paced",
+      "single-player",
+      "sci-fi"
+    ],
+    "Description": "The Doom Slayer tears through demonic hordes on Mars in a fast-paced revival emphasizing aggressive movement and glory kills.",
+    "Review": "A ferociously fast shooter that gets the original's spirit exactly right."
+  },
+  {
+    "Name": "Stardew Valley",
+    "Platform": "PC / Nintendo Switch / Mobile",
+    "Genre": "Farming Sim",
+    "Publisher": "ConcernedApe",
+    "YearOfRelease": 2016,
+    "Rating": 89,
+    "Tags": [
+      "farming",
+      "relaxing",
+      "indie",
+      "single-player",
+      "family-friendly"
+    ],
+    "Description": "Players inherit a rundown farm and grow crops, raise animals, and build relationships with townsfolk in a cozy pixel-art life sim.",
+    "Review": "Endless charm and an addictive farming loop, though grinding can feel repetitive late-game."
+  },
+  {
+    "Name": "Hades",
+    "Platform": "PC / Nintendo Switch / PlayStation 5",
+    "Genre": "Roguelike",
+    "Publisher": "Supergiant Games",
+    "YearOfRelease": 2020,
+    "Rating": 93,
+    "Tags": [
+      "roguelike",
+      "indie",
+      "mythology",
+      "single-player",
+      "action"
+    ],
+    "Description": "As the prince of the underworld, players fight through procedurally generated chambers to escape Hades' domain, growing stronger with each run.",
+    "Review": "Gorgeous art and razor-sharp combat make every failed run feel rewarding."
+  },
+  {
+    "Name": "Candy Crush Saga",
+    "Platform": "Mobile (iOS / Android)",
+    "Genre": "Puzzle",
+    "Publisher": "King",
+    "YearOfRelease": 2012,
+    "Rating": 74,
+    "Tags": [
+      "puzzle",
+      "mobile",
+      "casual",
+      "free-to-play"
+    ],
+    "Description": "A match-three puzzle game with thousands of levels, boosters, and social features that made it one of the most downloaded mobile games ever.",
+    "Review": "Simple, addictive puzzle fun, though the monetization can feel aggressive."
+  },
+  {
+    "Name": "Pokemon Go",
+    "Platform": "Mobile (iOS / Android)",
+    "Genre": "Augmented Reality",
+    "Publisher": "Niantic",
+    "YearOfRelease": 2016,
+    "Rating": 71,
+    "Tags": [
+      "mobile",
+      "ar",
+      "location-based",
+      "multiplayer",
+      "family-friendly"
+    ],
+    "Description": "Players explore the real world using their phone's camera and GPS to catch Pokemon, battle in gyms, and complete raids with other trainers nearby.",
+    "Review": "A groundbreaking use of AR that got players outside, though the servers were rocky at launch."
+  },
+  {
+    "Name": "Beat Saber",
+    "Platform": "VR (Meta Quest)",
+    "Genre": "Rhythm",
+    "Publisher": "Beat Games",
+    "YearOfRelease": 2018,
+    "Rating": 85,
+    "Tags": [
+      "vr",
+      "rhythm",
+      "music",
+      "single-player",
+      "fitness"
+    ],
+    "Description": "Players slice incoming blocks in time with music using motion-tracked lightsabers, blending rhythm-game precision with full-body movement.",
+    "Review": "One of the best VR showcases around, exhilarating and easy to pick up."
+  },
+  {
+    "Name": "Sonic the Hedgehog",
+    "Platform": "Sega Genesis",
+    "Genre": "Platformer",
+    "Publisher": "Sega",
+    "YearOfRelease": 1991,
+    "Rating": 86,
+    "Tags": [
+      "platformer",
+      "classic",
+      "fast-paced",
+      "single-player"
+    ],
+    "Description": "Sonic races through Green Hill Zone and beyond at high speed to stop Dr. Robotnik, defined by momentum-based platforming and looping levels.",
+    "Review": "Blisteringly fast platforming that defined Sega's identity in the 90s."
+  },
+  {
+    "Name": "Metal Gear Solid",
+    "Platform": "PlayStation 1",
+    "Genre": "Stealth Action",
+    "Publisher": "Konami",
+    "YearOfRelease": 1998,
+    "Rating": 94,
+    "Tags": [
+      "stealth",
+      "story-rich",
+      "single-player",
+      "military"
+    ],
+    "Description": "Solid Snake infiltrates a nuclear weapons facility to stop a rogue special forces unit, pioneering cinematic cutscenes and tactical stealth gameplay.",
+    "Review": "A cinematic masterpiece that reinvented stealth gameplay with unforgettable characters."
+  },
+  {
+    "Name": "Guild Wars 2",
+    "Platform": "PC",
+    "Genre": "MMORPG",
+    "Publisher": "ArenaNet",
+    "YearOfRelease": 2012,
+    "Rating": 85,
+    "Tags": [
+      "mmorpg",
+      "multiplayer",
+      "fantasy",
+      "open-world"
+    ],
+    "Description": "An MMORPG built around dynamic world events and large-scale WvW battles, notable for dropping traditional questing hubs and trinity-based combat.",
+    "Review": "A refreshing MMO with dynamic events, though the story pacing can be uneven."
+  },
+  {
+    "Name": "Fortnite",
+    "Platform": "PC / Xbox / PlayStation / Nintendo Switch / Mobile",
+    "Genre": "Battle Royale",
+    "Publisher": "Epic Games",
+    "YearOfRelease": 2017,
+    "Rating": 82,
+    "Tags": [
+      "battle-royale",
+      "multiplayer",
+      "building",
+      "free-to-play"
+    ],
+    "Description": "One hundred players fight to be the last one standing on a shrinking island, using scavenged weapons and a signature building mechanic.",
+    "Review": "A cultural phenomenon blending building mechanics with battle royale chaos."
+  },
+  {
+    "Name": "Assassin's Creed II",
+    "Platform": "Xbox 360",
+    "Genre": "Action-Adventure",
+    "Publisher": "Ubisoft",
+    "YearOfRelease": 2009,
+    "Rating": 91,
+    "Tags": [
+      "open-world",
+      "historical",
+      "stealth",
+      "single-player"
+    ],
+    "Description": "Ezio Auditore seeks revenge against the conspirators who destroyed his family, climbing Renaissance Italy's cities in this landmark sequel.",
+    "Review": "A huge leap over the original with a compelling revenge story across Renaissance Italy."
+  },
+  {
+    "Name": "Fallout 4",
+    "Platform": "Xbox One",
+    "Genre": "Action RPG",
+    "Publisher": "Bethesda Softworks",
+    "YearOfRelease": 2015,
+    "Rating": 84,
+    "Tags": [
+      "open-world",
+      "post-apocalyptic",
+      "single-player",
+      "rpg"
+    ],
+    "Description": "A lone survivor wakes decades after a nuclear war to explore the ruins of Boston, building settlements and shaping the wasteland's factions.",
+    "Review": "A sprawling post-apocalyptic playground let down by a middling main story."
+  },
+  {
+    "Name": "FIFA 23",
+    "Platform": "PlayStation 5",
+    "Genre": "Sports",
+    "Publisher": "Electronic Arts",
+    "YearOfRelease": 2022,
+    "Rating": 79,
+    "Tags": [
+      "sports",
+      "multiplayer",
+      "soccer",
+      "simulation"
+    ],
+    "Description": "The final entry under the FIFA license simulates professional soccer with licensed leagues, HyperMotion animation capture, and cross-play modes.",
+    "Review": "Solid on-pitch gameplay but plagued by familiar franchise mode complaints."
+  },
+  {
+    "Name": "League of Legends",
+    "Platform": "PC",
+    "Genre": "MOBA",
+    "Publisher": "Riot Games",
+    "YearOfRelease": 2009,
+    "Rating": 78,
+    "Tags": [
+      "moba",
+      "competitive",
+      "multiplayer",
+      "esports",
+      "free-to-play"
+    ],
+    "Description": "Two teams of five champions battle across three lanes to destroy the enemy Nexus, becoming one of the most-watched esports in the world.",
+    "Review": "A deep strategic MOBA that remains fun, though the toxic community can be discouraging."
+  },
+  {
+    "Name": "Dark Souls",
+    "Platform": "Xbox 360",
+    "Genre": "Action RPG",
+    "Publisher": "FromSoftware",
+    "YearOfRelease": 2011,
+    "Rating": 89,
+    "Tags": [
+      "difficult",
+      "fantasy",
+      "single-player",
+      "atmospheric"
+    ],
+    "Description": "Players explore the interconnected, decaying kingdom of Lordran, fighting punishing bosses and uncovering lore through environmental storytelling.",
+    "Review": "Punishingly difficult but deeply satisfying, with masterful level design."
+  },
+  {
+    "Name": "Hollow Knight",
+    "Platform": "PC / Nintendo Switch / Steam Deck",
+    "Genre": "Metroidvania",
+    "Publisher": "Team Cherry",
+    "YearOfRelease": 2017,
+    "Rating": 90,
+    "Tags": [
+      "metroidvania",
+      "indie",
+      "atmospheric",
+      "single-player",
+      "difficult"
+    ],
+    "Description": "Players explore the ruined insect kingdom of Hallownest, gaining new abilities to reach previously inaccessible areas in this hand-drawn adventure.",
+    "Review": "A gorgeous, atmospheric metroidvania with tight combat and rewarding exploration."
+  }
+]
